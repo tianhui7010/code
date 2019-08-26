@@ -6,6 +6,7 @@ import org.springframework.cloud.netflix.feign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
+//测试提交jian-15
 public class Jian15Application {
 
 	public static void main(String[] args) {

@@ -3,7 +3,7 @@ package com.tian.haijun;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//测试提交 haijun
+//测试提交 haijun b
 @SpringBootApplication
 public class HaijunApplication {
 
